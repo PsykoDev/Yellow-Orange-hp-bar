@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Yellow Hp-bar",
+    "keywords" : ["client"],
+    "author": "PsykoDev",
+    "options": {
+        "guiName": "Yellow Hp-bar",
+        "cliName": "Yellow Hp-bar"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Yellow-Orange-hp-bar/master"],
+    "supportUrl": "https://github.com/PsykoDev/Yellow-Orange-hp-bar/issues",
+    "description": "Yellow Hp-bar"
+}
