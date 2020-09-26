@@ -11,7 +11,7 @@ change the 1st line for "branch": "beta",
 ---
 
 ## Manual install:
-- like old time you can ceate your " _MODS " folder in Tera\Client\S1Game\CookedPC\Art_Data\Packages and put all your .gpk inside
+- like old time you can create your " _MODS " folder in Tera\Client\S1Game\CookedPC\Art_Data\Packages and put all your .gpk inside
 
 ---
 
