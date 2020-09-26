@@ -15,6 +15,12 @@ change the 1st line for "branch": "beta",
 
 ---
 
+## Tera Mod Manager:
+- Or you can use Tera Mod Manager created by ['VenoMKO'](https://github.com/VenoMKO) ['download'](https://github.com/VenoMKO/TMM/releases)
+<img src=https://cdn.discordapp.com/attachments/652398451832782880/759485380486627348/header.png>
+
+---
+
 ## Screen: 
 - Extended mode
 <img src=https://cdn.discordapp.com/attachments/750058700210831494/759391636777205760/unknown.png>
