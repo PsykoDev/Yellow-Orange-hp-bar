@@ -10,6 +10,11 @@ change the 1st line for "branch": "beta",
 
 ---
 
+## Manual install:
+- like old time tyou can ceate your " _MODS " folder in Tera\Client\S1Game\CookedPC\Art_Data\Packages and put all your .gpk inside
+
+---
+
 ## Screen: 
 - Extended mode
 <img src=https://cdn.discordapp.com/attachments/750058700210831494/759391636777205760/unknown.png>
